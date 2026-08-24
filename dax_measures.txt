@@ -1,0 +1,52 @@
+-- Core DAX measures used in the employment outcomes dashboard
+-- (measures live in the fact table "ClientEvents", related to
+-- dimension tables Sector, Adviser, and a standard Date table)
+
+Total Clients =
+DISTINCTCOUNT(ClientEvents[client_id])
+
+Total Placed =
+CALCULATE(
+    DISTINCTCOUNT(ClientEvents[client_id]),
+    ClientEvents[is_placed] = 1
+)
+
+Placement Rate =
+DIVIDE([Total Placed], [Total Clients], 0)
+
+Sustained 26 Weeks =
+CALCULATE(
+    DISTINCTCOUNT(ClientEvents[client_id]),
+    ClientEvents[is_sustained_26wk] = 1
+)
+
+Sustainment Rate =
+DIVIDE([Sustained 26 Weeks], [Total Placed], 0)
+
+Avg Days to Placement =
+AVERAGEX(
+    FILTER(ClientEvents, ClientEvents[is_placed] = 1),
+    DATEDIFF(ClientEvents[engagement_date], ClientEvents[placed_date], DAY)
+)
+
+Placements This Month =
+CALCULATE(
+    [Total Placed],
+    DATESMTD('Date'[Date])
+)
+
+Placements Prior Month =
+CALCULATE(
+    [Total Placed],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+
+MoM Placement Change =
+DIVIDE([Placements This Month] - [Placements Prior Month], [Placements Prior Month], 0)
+
+At Risk Clients =
+CALCULATE(
+    DISTINCTCOUNT(ClientEvents[client_id]),
+    ClientEvents[current_stage] IN {"Engaged", "Action Plan Agreed"},
+    ClientEvents[days_on_programme] > 90
+)
