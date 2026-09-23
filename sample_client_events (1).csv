@@ -1,0 +1,421 @@
+client_id,engagement_date,sector,referral_source,adviser,current_stage,placed_date,days_on_programme
+CL0001,24/04/2024,Retail,Partner organisation,Adviser B,Action Plan Agreed,,852
+CL0002,14/04/2024,Hospitality,Self-referral,Adviser A,Engaged,,862
+CL0003,11/08/2024,Construction,Self-referral,Adviser A,Placed,23/02/2025,743
+CL0004,05/03/2025,Construction,Jobcentre Plus,Adviser C,Sustained (13 weeks),05/04/2025,537
+CL0005,12/06/2024,Customer Service,Jobcentre Plus,Adviser B,Action Plan Agreed,,803
+CL0006,10/12/2024,Hospitality,Jobcentre Plus,Adviser A,In Training,,622
+CL0007,18/12/2024,Warehousing & Logistics,Partner organisation,Adviser D,Placed,23/04/2025,614
+CL0008,21/03/2024,Warehousing & Logistics,Partner organisation,Adviser C,Placed,07/05/2024,886
+CL0009,16/02/2024,Construction,Partner organisation,Adviser A,Sustained (13 weeks),11/04/2024,920
+CL0010,24/01/2025,Warehousing & Logistics,Self-referral,Adviser C,Action Plan Agreed,,577
+CL0011,29/12/2024,Construction,Partner organisation,Adviser A,Placed,12/03/2025,603
+CL0012,07/09/2024,Health & Social Care,Self-referral,Adviser C,Sustained (26 weeks),19/03/2025,716
+CL0013,12/08/2024,Admin & Office,Partner organisation,Adviser A,Action Plan Agreed,,742
+CL0014,02/02/2024,Admin & Office,Jobcentre Plus,Adviser A,Action Plan Agreed,,934
+CL0015,18/11/2024,Construction,Partner organisation,Adviser D,Sustained (13 weeks),31/05/2025,644
+CL0016,14/04/2025,Health & Social Care,Jobcentre Plus,Adviser B,Placed,28/09/2025,497
+CL0017,26/09/2024,Customer Service,Partner organisation,Adviser D,In Training,,697
+CL0018,21/05/2024,Education,Jobcentre Plus,Adviser A,Sustained (13 weeks),29/07/2024,825
+CL0019,12/06/2024,Customer Service,Self-referral,Adviser D,In Training,,803
+CL0020,24/04/2025,Warehousing & Logistics,Re-referral,Adviser A,Placed,22/06/2025,487
+CL0021,30/09/2024,Admin & Office,Jobcentre Plus,Adviser D,Action Plan Agreed,,693
+CL0022,04/01/2024,Warehousing & Logistics,Re-referral,Adviser B,Placed,01/03/2024,963
+CL0023,01/11/2024,Construction,Jobcentre Plus,Adviser B,Placed,15/04/2025,661
+CL0024,01/01/2024,Admin & Office,Self-referral,Adviser A,Sustained (26 weeks),18/04/2024,966
+CL0025,02/09/2024,Retail,Jobcentre Plus,Adviser A,Engaged,,721
+CL0026,12/05/2025,Hospitality,Re-referral,Adviser B,Action Plan Agreed,,469
+CL0027,01/05/2025,Health & Social Care,Jobcentre Plus,Adviser D,Sustained (26 weeks),16/10/2025,480
+CL0028,24/07/2024,Warehousing & Logistics,Jobcentre Plus,Adviser C,Job Ready,,761
+CL0029,13/06/2025,Education,Jobcentre Plus,Adviser B,Engaged,,437
+CL0030,22/01/2024,Construction,Self-referral,Adviser A,Engaged,,945
+CL0031,01/03/2024,Construction,Jobcentre Plus,Adviser A,Sustained (13 weeks),18/04/2024,906
+CL0032,10/06/2025,Construction,Jobcentre Plus,Adviser D,Action Plan Agreed,,440
+CL0033,15/05/2024,Education,Jobcentre Plus,Adviser D,Sustained (13 weeks),01/08/2024,831
+CL0034,06/04/2024,Hospitality,Partner organisation,Adviser C,Job Ready,,870
+CL0035,23/04/2025,Retail,Partner organisation,Adviser A,Engaged,,488
+CL0036,13/12/2024,Hospitality,Jobcentre Plus,Adviser B,Placed,16/02/2025,619
+CL0037,08/03/2025,Health & Social Care,Jobcentre Plus,Adviser B,Sustained (13 weeks),26/04/2025,534
+CL0038,29/03/2025,Hospitality,Jobcentre Plus,Adviser A,Sustained (26 weeks),27/06/2025,513
+CL0039,19/06/2024,Customer Service,Self-referral,Adviser B,Sustained (13 weeks),03/08/2024,796
+CL0040,17/06/2024,Customer Service,Jobcentre Plus,Adviser D,In Training,,798
+CL0041,10/04/2025,Warehousing & Logistics,Jobcentre Plus,Adviser D,Action Plan Agreed,,501
+CL0042,30/10/2024,Construction,Re-referral,Adviser A,Placed,13/12/2024,663
+CL0043,21/02/2024,Education,Self-referral,Adviser B,Engaged,,915
+CL0044,04/06/2025,Hospitality,Partner organisation,Adviser A,Placed,02/09/2025,446
+CL0045,17/02/2025,Hospitality,Re-referral,Adviser B,Placed,29/03/2025,553
+CL0046,24/03/2024,Customer Service,Partner organisation,Adviser C,Sustained (26 weeks),14/06/2024,883
+CL0047,17/11/2024,Construction,Jobcentre Plus,Adviser B,Placed,03/03/2025,645
+CL0048,13/04/2025,Admin & Office,Re-referral,Adviser A,Engaged,,498
+CL0049,12/04/2024,Hospitality,Self-referral,Adviser C,Action Plan Agreed,,864
+CL0050,23/12/2024,Hospitality,Partner organisation,Adviser C,In Training,,609
+CL0051,24/03/2025,Warehousing & Logistics,Self-referral,Adviser A,Placed,11/09/2025,518
+CL0052,02/11/2024,Hospitality,Re-referral,Adviser B,In Training,,660
+CL0053,19/04/2024,Health & Social Care,Jobcentre Plus,Adviser B,Placed,10/07/2024,857
+CL0054,27/09/2024,Education,Jobcentre Plus,Adviser A,Engaged,,696
+CL0055,09/03/2025,Warehousing & Logistics,Jobcentre Plus,Adviser C,Sustained (13 weeks),18/09/2025,533
+CL0056,25/09/2024,Health & Social Care,Partner organisation,Adviser D,Placed,22/11/2024,698
+CL0057,18/03/2024,Health & Social Care,Self-referral,Adviser C,Placed,24/05/2024,889
+CL0058,16/03/2025,Health & Social Care,Jobcentre Plus,Adviser C,Sustained (13 weeks),25/04/2025,526
+CL0059,01/01/2025,Construction,Partner organisation,Adviser A,In Training,,600
+CL0060,20/02/2025,Health & Social Care,Re-referral,Adviser B,Sustained (13 weeks),06/05/2025,550
+CL0061,26/02/2025,Retail,Jobcentre Plus,Adviser C,Sustained (13 weeks),11/07/2025,544
+CL0062,11/09/2024,Warehousing & Logistics,Jobcentre Plus,Adviser A,In Training,,712
+CL0063,09/02/2024,Education,Jobcentre Plus,Adviser D,In Training,,927
+CL0064,21/08/2024,Construction,Jobcentre Plus,Adviser B,In Training,,733
+CL0065,12/10/2024,Hospitality,Re-referral,Adviser C,In Training,,681
+CL0066,05/06/2025,Customer Service,Partner organisation,Adviser C,Sustained (26 weeks),03/08/2025,445
+CL0067,24/09/2024,Health & Social Care,Self-referral,Adviser C,Engaged,,699
+CL0068,20/03/2025,Admin & Office,Partner organisation,Adviser C,Job Ready,,522
+CL0069,07/06/2025,Hospitality,Jobcentre Plus,Adviser B,In Training,,443
+CL0070,22/03/2025,Retail,Self-referral,Adviser B,In Training,,520
+CL0071,12/03/2024,Admin & Office,Self-referral,Adviser A,Placed,26/06/2024,895
+CL0072,03/06/2025,Warehousing & Logistics,Partner organisation,Adviser C,Job Ready,,447
+CL0073,29/10/2024,Health & Social Care,Jobcentre Plus,Adviser D,Placed,11/01/2025,664
+CL0074,04/11/2024,Customer Service,Self-referral,Adviser A,In Training,,658
+CL0075,03/08/2024,Customer Service,Partner organisation,Adviser C,Job Ready,,751
+CL0076,28/03/2025,Construction,Self-referral,Adviser B,Placed,08/07/2025,514
+CL0077,11/06/2025,Admin & Office,Jobcentre Plus,Adviser B,Placed,06/09/2025,439
+CL0078,22/07/2024,Health & Social Care,Jobcentre Plus,Adviser B,Sustained (26 weeks),24/01/2025,763
+CL0079,15/03/2024,Education,Jobcentre Plus,Adviser B,Placed,21/07/2024,892
+CL0080,21/05/2025,Customer Service,Jobcentre Plus,Adviser A,Sustained (13 weeks),17/07/2025,460
+CL0081,11/03/2025,Construction,Jobcentre Plus,Adviser D,Engaged,,531
+CL0082,12/09/2024,Hospitality,Self-referral,Adviser D,Placed,04/03/2025,711
+CL0083,20/11/2024,Education,Self-referral,Adviser D,Sustained (13 weeks),09/05/2025,642
+CL0084,01/04/2025,Health & Social Care,Partner organisation,Adviser D,Job Ready,,510
+CL0085,10/09/2024,Warehousing & Logistics,Partner organisation,Adviser D,Placed,19/12/2024,713
+CL0086,26/03/2025,Hospitality,Partner organisation,Adviser B,In Training,,516
+CL0087,23/11/2024,Hospitality,Jobcentre Plus,Adviser B,In Training,,639
+CL0088,05/06/2024,Construction,Jobcentre Plus,Adviser D,In Training,,810
+CL0089,22/04/2025,Customer Service,Jobcentre Plus,Adviser D,In Training,,489
+CL0090,21/01/2024,Customer Service,Self-referral,Adviser C,In Training,,946
+CL0091,03/02/2025,Customer Service,Self-referral,Adviser B,Job Ready,,567
+CL0092,06/10/2024,Customer Service,Self-referral,Adviser D,In Training,,687
+CL0093,18/02/2025,Health & Social Care,Partner organisation,Adviser B,Sustained (26 weeks),03/08/2025,552
+CL0094,28/01/2024,Customer Service,Self-referral,Adviser A,Engaged,,939
+CL0095,14/03/2025,Health & Social Care,Partner organisation,Adviser B,Engaged,,528
+CL0096,23/01/2025,Admin & Office,Jobcentre Plus,Adviser C,In Training,,578
+CL0097,23/01/2025,Warehousing & Logistics,Partner organisation,Adviser D,In Training,,578
+CL0098,24/03/2024,Education,Jobcentre Plus,Adviser A,Sustained (26 weeks),21/07/2024,883
+CL0099,17/08/2024,Hospitality,Partner organisation,Adviser A,Sustained (13 weeks),18/11/2024,737
+CL0100,23/07/2024,Retail,Self-referral,Adviser B,Action Plan Agreed,,762
+CL0101,27/04/2024,Construction,Self-referral,Adviser C,Sustained (13 weeks),08/07/2024,849
+CL0102,27/04/2024,Health & Social Care,Re-referral,Adviser A,Placed,14/08/2024,849
+CL0103,19/01/2025,Customer Service,Re-referral,Adviser B,Engaged,,582
+CL0104,05/09/2024,Hospitality,Partner organisation,Adviser C,Sustained (13 weeks),07/03/2025,718
+CL0105,03/05/2024,Retail,Jobcentre Plus,Adviser D,Placed,19/06/2024,843
+CL0106,02/06/2025,Admin & Office,Jobcentre Plus,Adviser D,Sustained (13 weeks),29/07/2025,448
+CL0107,19/03/2025,Admin & Office,Self-referral,Adviser D,Placed,07/08/2025,523
+CL0108,29/06/2024,Warehousing & Logistics,Self-referral,Adviser D,Job Ready,,786
+CL0109,01/10/2024,Admin & Office,Partner organisation,Adviser A,In Training,,692
+CL0110,06/04/2025,Construction,Partner organisation,Adviser D,In Training,,505
+CL0111,21/05/2025,Admin & Office,Jobcentre Plus,Adviser B,In Training,,460
+CL0112,21/09/2024,Admin & Office,Jobcentre Plus,Adviser C,Placed,02/03/2025,702
+CL0113,14/07/2024,Hospitality,Jobcentre Plus,Adviser D,Job Ready,,771
+CL0114,03/09/2024,Education,Self-referral,Adviser D,Job Ready,,720
+CL0115,18/01/2024,Hospitality,Jobcentre Plus,Adviser D,Placed,05/05/2024,949
+CL0116,12/01/2025,Education,Self-referral,Adviser C,Job Ready,,589
+CL0117,04/12/2024,Admin & Office,Partner organisation,Adviser C,In Training,,628
+CL0118,24/08/2024,Hospitality,Partner organisation,Adviser C,Action Plan Agreed,,730
+CL0119,08/07/2024,Construction,Jobcentre Plus,Adviser D,In Training,,777
+CL0120,21/06/2025,Warehousing & Logistics,Re-referral,Adviser B,In Training,,429
+CL0121,04/01/2025,Health & Social Care,Jobcentre Plus,Adviser B,In Training,,597
+CL0122,25/02/2024,Warehousing & Logistics,Partner organisation,Adviser B,Placed,29/07/2024,911
+CL0123,15/04/2024,Retail,Self-referral,Adviser D,Job Ready,,861
+CL0124,14/12/2024,Health & Social Care,Re-referral,Adviser C,Sustained (26 weeks),15/05/2025,618
+CL0125,26/04/2024,Hospitality,Jobcentre Plus,Adviser A,Placed,08/06/2024,850
+CL0126,04/06/2024,Health & Social Care,Partner organisation,Adviser C,Engaged,,811
+CL0127,11/09/2024,Hospitality,Self-referral,Adviser D,Placed,18/03/2025,712
+CL0128,19/08/2024,Customer Service,Self-referral,Adviser D,In Training,,735
+CL0129,15/03/2025,Warehousing & Logistics,Self-referral,Adviser A,Placed,09/05/2025,527
+CL0130,31/07/2024,Construction,Jobcentre Plus,Adviser A,Action Plan Agreed,,754
+CL0131,26/06/2024,Hospitality,Jobcentre Plus,Adviser D,Job Ready,,789
+CL0132,26/04/2025,Warehousing & Logistics,Jobcentre Plus,Adviser C,Placed,19/09/2025,485
+CL0133,13/03/2024,Construction,Re-referral,Adviser B,Job Ready,,894
+CL0134,18/08/2024,Health & Social Care,Re-referral,Adviser B,Engaged,,736
+CL0135,18/06/2024,Warehousing & Logistics,Self-referral,Adviser C,Job Ready,,797
+CL0136,24/04/2025,Warehousing & Logistics,Partner organisation,Adviser C,Placed,27/09/2025,487
+CL0137,24/03/2025,Hospitality,Self-referral,Adviser D,Placed,24/09/2025,518
+CL0138,13/09/2024,Retail,Jobcentre Plus,Adviser A,Sustained (26 weeks),20/12/2024,710
+CL0139,11/02/2024,Health & Social Care,Self-referral,Adviser D,Sustained (26 weeks),27/04/2024,925
+CL0140,22/03/2025,Education,Re-referral,Adviser D,In Training,,520
+CL0141,07/12/2024,Admin & Office,Partner organisation,Adviser B,In Training,,625
+CL0142,22/05/2025,Warehousing & Logistics,Partner organisation,Adviser D,Sustained (13 weeks),08/11/2025,459
+CL0143,07/02/2024,Education,Jobcentre Plus,Adviser C,In Training,,929
+CL0144,17/02/2025,Retail,Partner organisation,Adviser D,Job Ready,,553
+CL0145,11/07/2024,Admin & Office,Self-referral,Adviser D,Placed,23/08/2024,774
+CL0146,27/07/2024,Warehousing & Logistics,Self-referral,Adviser C,Job Ready,,758
+CL0147,11/05/2025,Hospitality,Jobcentre Plus,Adviser B,Placed,28/08/2025,470
+CL0148,15/01/2024,Customer Service,Jobcentre Plus,Adviser A,Job Ready,,952
+CL0149,30/04/2024,Health & Social Care,Self-referral,Adviser C,Placed,07/08/2024,846
+CL0150,01/03/2025,Education,Re-referral,Adviser B,Job Ready,,541
+CL0151,28/05/2024,Customer Service,Jobcentre Plus,Adviser B,Sustained (13 weeks),05/09/2024,818
+CL0152,28/02/2025,Admin & Office,Re-referral,Adviser C,Sustained (13 weeks),10/06/2025,542
+CL0153,01/11/2024,Education,Partner organisation,Adviser D,Placed,27/02/2025,661
+CL0154,06/12/2024,Customer Service,Self-referral,Adviser C,Sustained (13 weeks),07/03/2025,626
+CL0155,27/01/2025,Construction,Partner organisation,Adviser D,Engaged,,574
+CL0156,29/04/2025,Customer Service,Jobcentre Plus,Adviser B,Job Ready,,482
+CL0157,07/02/2024,Health & Social Care,Self-referral,Adviser C,Sustained (13 weeks),28/06/2024,929
+CL0158,12/04/2024,Education,Jobcentre Plus,Adviser B,Job Ready,,864
+CL0159,07/06/2024,Hospitality,Self-referral,Adviser C,In Training,,808
+CL0160,11/02/2025,Hospitality,Partner organisation,Adviser D,Sustained (26 weeks),20/08/2025,559
+CL0161,14/05/2025,Retail,Self-referral,Adviser B,Placed,25/08/2025,467
+CL0162,20/08/2024,Hospitality,Jobcentre Plus,Adviser A,Sustained (13 weeks),14/10/2024,734
+CL0163,30/03/2025,Health & Social Care,Partner organisation,Adviser A,Engaged,,512
+CL0164,27/02/2024,Warehousing & Logistics,Jobcentre Plus,Adviser D,Action Plan Agreed,,909
+CL0165,25/02/2025,Health & Social Care,Jobcentre Plus,Adviser A,Placed,02/07/2025,545
+CL0166,03/09/2024,Education,Re-referral,Adviser B,Action Plan Agreed,,720
+CL0167,17/09/2024,Education,Jobcentre Plus,Adviser A,Sustained (13 weeks),13/02/2025,706
+CL0168,21/10/2024,Health & Social Care,Jobcentre Plus,Adviser C,Sustained (26 weeks),04/02/2025,672
+CL0169,10/03/2025,Warehousing & Logistics,Self-referral,Adviser C,Action Plan Agreed,,532
+CL0170,28/01/2025,Education,Jobcentre Plus,Adviser D,Placed,24/07/2025,573
+CL0171,29/10/2024,Warehousing & Logistics,Jobcentre Plus,Adviser D,In Training,,664
+CL0172,20/02/2024,Education,Partner organisation,Adviser C,Sustained (13 weeks),18/05/2024,916
+CL0173,26/12/2024,Construction,Self-referral,Adviser C,Placed,12/07/2025,606
+CL0174,20/05/2024,Hospitality,Re-referral,Adviser A,In Training,,826
+CL0175,27/03/2025,Retail,Self-referral,Adviser B,Engaged,,515
+CL0176,29/10/2024,Admin & Office,Partner organisation,Adviser B,Action Plan Agreed,,664
+CL0177,09/01/2025,Warehousing & Logistics,Partner organisation,Adviser C,Sustained (26 weeks),11/06/2025,592
+CL0178,29/10/2024,Admin & Office,Partner organisation,Adviser D,Sustained (26 weeks),03/01/2025,664
+CL0179,19/08/2024,Customer Service,Re-referral,Adviser C,Engaged,,735
+CL0180,08/02/2025,Retail,Jobcentre Plus,Adviser A,Job Ready,,562
+CL0181,25/09/2024,Customer Service,Partner organisation,Adviser C,Action Plan Agreed,,698
+CL0182,27/08/2024,Education,Jobcentre Plus,Adviser C,Sustained (26 weeks),21/11/2024,727
+CL0183,05/03/2024,Education,Re-referral,Adviser C,Placed,03/05/2024,902
+CL0184,23/05/2024,Retail,Re-referral,Adviser C,Sustained (26 weeks),21/07/2024,823
+CL0185,09/04/2024,Construction,Partner organisation,Adviser B,In Training,,867
+CL0186,14/01/2025,Customer Service,Self-referral,Adviser B,Sustained (13 weeks),30/07/2025,587
+CL0187,11/04/2024,Education,Self-referral,Adviser C,Engaged,,865
+CL0188,14/01/2025,Construction,Jobcentre Plus,Adviser B,Sustained (13 weeks),10/03/2025,587
+CL0189,11/01/2025,Admin & Office,Jobcentre Plus,Adviser C,Action Plan Agreed,,590
+CL0190,05/05/2024,Education,Jobcentre Plus,Adviser B,Placed,03/11/2024,841
+CL0191,22/01/2024,Retail,Partner organisation,Adviser B,Sustained (26 weeks),14/07/2024,945
+CL0192,29/07/2024,Hospitality,Partner organisation,Adviser B,Placed,26/10/2024,756
+CL0193,02/12/2024,Health & Social Care,Partner organisation,Adviser A,In Training,,630
+CL0194,28/05/2024,Health & Social Care,Self-referral,Adviser B,Action Plan Agreed,,818
+CL0195,27/01/2024,Health & Social Care,Jobcentre Plus,Adviser B,Placed,01/03/2024,940
+CL0196,27/06/2024,Warehousing & Logistics,Jobcentre Plus,Adviser D,Placed,12/08/2024,788
+CL0197,02/05/2025,Education,Partner organisation,Adviser A,Job Ready,,479
+CL0198,14/08/2024,Retail,Partner organisation,Adviser C,Job Ready,,740
+CL0199,01/02/2024,Retail,Re-referral,Adviser D,Job Ready,,935
+CL0200,20/04/2024,Education,Partner organisation,Adviser D,Engaged,,856
+CL0201,23/03/2024,Admin & Office,Self-referral,Adviser A,Action Plan Agreed,,884
+CL0202,28/11/2024,Customer Service,Re-referral,Adviser C,Job Ready,,634
+CL0203,16/03/2025,Hospitality,Partner organisation,Adviser A,Sustained (13 weeks),28/09/2025,526
+CL0204,08/08/2024,Customer Service,Self-referral,Adviser B,Job Ready,,746
+CL0205,09/04/2025,Customer Service,Jobcentre Plus,Adviser A,In Training,,502
+CL0206,16/11/2024,Warehousing & Logistics,Jobcentre Plus,Adviser B,Placed,16/04/2025,646
+CL0207,09/03/2024,Hospitality,Partner organisation,Adviser A,Job Ready,,898
+CL0208,16/01/2025,Health & Social Care,Self-referral,Adviser C,Placed,31/05/2025,585
+CL0209,28/12/2024,Customer Service,Partner organisation,Adviser A,Sustained (26 weeks),29/06/2025,604
+CL0210,15/11/2024,Admin & Office,Jobcentre Plus,Adviser B,Action Plan Agreed,,647
+CL0211,08/05/2025,Construction,Partner organisation,Adviser C,Sustained (13 weeks),09/09/2025,473
+CL0212,27/04/2024,Warehousing & Logistics,Self-referral,Adviser D,Sustained (13 weeks),02/11/2024,849
+CL0213,27/01/2024,Warehousing & Logistics,Jobcentre Plus,Adviser C,Placed,15/05/2024,940
+CL0214,13/12/2024,Admin & Office,Jobcentre Plus,Adviser B,Placed,24/04/2025,619
+CL0215,12/03/2024,Health & Social Care,Partner organisation,Adviser A,Engaged,,895
+CL0216,08/08/2024,Customer Service,Jobcentre Plus,Adviser C,Action Plan Agreed,,746
+CL0217,15/11/2024,Admin & Office,Partner organisation,Adviser A,Sustained (13 weeks),23/01/2025,647
+CL0218,10/06/2024,Retail,Partner organisation,Adviser C,Job Ready,,805
+CL0219,10/03/2025,Education,Self-referral,Adviser D,In Training,,532
+CL0220,08/06/2025,Hospitality,Jobcentre Plus,Adviser A,In Training,,442
+CL0221,13/05/2025,Warehousing & Logistics,Jobcentre Plus,Adviser D,Sustained (26 weeks),26/06/2025,468
+CL0222,08/01/2024,Construction,Jobcentre Plus,Adviser B,Sustained (13 weeks),12/04/2024,959
+CL0223,23/10/2024,Admin & Office,Jobcentre Plus,Adviser D,Placed,05/01/2025,670
+CL0224,12/05/2024,Customer Service,Self-referral,Adviser B,Placed,09/09/2024,834
+CL0225,14/03/2024,Customer Service,Partner organisation,Adviser A,Job Ready,,893
+CL0226,15/04/2025,Hospitality,Partner organisation,Adviser D,Placed,25/10/2025,496
+CL0227,03/03/2025,Warehousing & Logistics,Jobcentre Plus,Adviser A,Sustained (26 weeks),15/05/2025,539
+CL0228,16/04/2025,Admin & Office,Jobcentre Plus,Adviser A,Action Plan Agreed,,495
+CL0229,14/02/2025,Hospitality,Jobcentre Plus,Adviser C,Placed,11/05/2025,556
+CL0230,07/12/2024,Health & Social Care,Jobcentre Plus,Adviser A,Placed,24/02/2025,625
+CL0231,23/12/2024,Admin & Office,Partner organisation,Adviser B,Action Plan Agreed,,609
+CL0232,29/05/2024,Warehousing & Logistics,Jobcentre Plus,Adviser B,Sustained (13 weeks),12/12/2024,817
+CL0233,18/03/2024,Health & Social Care,Re-referral,Adviser D,Job Ready,,889
+CL0234,04/04/2025,Admin & Office,Partner organisation,Adviser C,Action Plan Agreed,,507
+CL0235,10/03/2024,Education,Jobcentre Plus,Adviser C,Sustained (13 weeks),07/09/2024,897
+CL0236,27/02/2024,Admin & Office,Self-referral,Adviser C,Job Ready,,909
+CL0237,08/02/2024,Retail,Jobcentre Plus,Adviser C,Engaged,,928
+CL0238,02/04/2024,Customer Service,Self-referral,Adviser A,Job Ready,,874
+CL0239,11/07/2024,Admin & Office,Self-referral,Adviser B,Sustained (26 weeks),03/12/2024,774
+CL0240,15/04/2024,Admin & Office,Re-referral,Adviser A,Placed,28/06/2024,861
+CL0241,10/02/2024,Construction,Partner organisation,Adviser D,Placed,14/08/2024,926
+CL0242,11/06/2024,Admin & Office,Jobcentre Plus,Adviser C,In Training,,804
+CL0243,12/12/2024,Retail,Partner organisation,Adviser C,Engaged,,620
+CL0244,06/04/2024,Customer Service,Jobcentre Plus,Adviser B,In Training,,870
+CL0245,24/05/2024,Admin & Office,Jobcentre Plus,Adviser D,Action Plan Agreed,,822
+CL0246,27/03/2024,Warehousing & Logistics,Self-referral,Adviser C,Sustained (13 weeks),07/09/2024,880
+CL0247,05/04/2024,Customer Service,Self-referral,Adviser A,In Training,,871
+CL0248,03/07/2024,Construction,Jobcentre Plus,Adviser D,Action Plan Agreed,,782
+CL0249,20/05/2024,Health & Social Care,Jobcentre Plus,Adviser A,Placed,04/11/2024,826
+CL0250,23/06/2025,Retail,Partner organisation,Adviser B,Placed,31/08/2025,427
+CL0251,15/06/2024,Health & Social Care,Partner organisation,Adviser B,Placed,26/07/2024,800
+CL0252,24/02/2025,Admin & Office,Partner organisation,Adviser B,Sustained (26 weeks),29/08/2025,546
+CL0253,18/10/2024,Education,Jobcentre Plus,Adviser B,In Training,,675
+CL0254,25/04/2025,Construction,Jobcentre Plus,Adviser D,Job Ready,,486
+CL0255,15/10/2024,Customer Service,Self-referral,Adviser D,Sustained (26 weeks),04/01/2025,678
+CL0256,21/05/2024,Warehousing & Logistics,Jobcentre Plus,Adviser D,Sustained (13 weeks),08/11/2024,825
+CL0257,15/04/2024,Hospitality,Jobcentre Plus,Adviser B,In Training,,861
+CL0258,09/06/2025,Health & Social Care,Partner organisation,Adviser A,Sustained (26 weeks),03/09/2025,441
+CL0259,06/04/2025,Admin & Office,Re-referral,Adviser D,Engaged,,505
+CL0260,29/05/2025,Admin & Office,Jobcentre Plus,Adviser A,In Training,,452
+CL0261,29/01/2024,Admin & Office,Re-referral,Adviser C,Sustained (13 weeks),03/04/2024,938
+CL0262,09/02/2024,Warehousing & Logistics,Re-referral,Adviser D,Placed,14/04/2024,927
+CL0263,25/04/2025,Education,Self-referral,Adviser A,Engaged,,486
+CL0264,08/08/2024,Health & Social Care,Self-referral,Adviser D,Action Plan Agreed,,746
+CL0265,22/10/2024,Construction,Jobcentre Plus,Adviser A,Action Plan Agreed,,671
+CL0266,13/04/2025,Hospitality,Jobcentre Plus,Adviser D,Placed,17/05/2025,498
+CL0267,11/06/2025,Construction,Partner organisation,Adviser C,Job Ready,,439
+CL0268,27/12/2024,Construction,Self-referral,Adviser B,Placed,16/02/2025,605
+CL0269,20/06/2025,Admin & Office,Jobcentre Plus,Adviser A,In Training,,430
+CL0270,26/04/2025,Retail,Self-referral,Adviser C,In Training,,485
+CL0271,17/01/2024,Admin & Office,Partner organisation,Adviser C,Action Plan Agreed,,950
+CL0272,16/04/2024,Admin & Office,Jobcentre Plus,Adviser C,Placed,27/10/2024,860
+CL0273,28/06/2024,Education,Re-referral,Adviser D,Placed,31/08/2024,787
+CL0274,05/03/2024,Education,Jobcentre Plus,Adviser B,Engaged,,902
+CL0275,23/07/2024,Retail,Jobcentre Plus,Adviser C,Placed,08/01/2025,762
+CL0276,29/04/2025,Warehousing & Logistics,Jobcentre Plus,Adviser B,In Training,,482
+CL0277,18/02/2024,Admin & Office,Jobcentre Plus,Adviser C,Job Ready,,918
+CL0278,13/02/2025,Education,Partner organisation,Adviser D,In Training,,557
+CL0279,10/07/2024,Education,Partner organisation,Adviser C,Sustained (26 weeks),19/12/2024,775
+CL0280,30/09/2024,Hospitality,Partner organisation,Adviser A,Job Ready,,693
+CL0281,03/07/2024,Warehousing & Logistics,Jobcentre Plus,Adviser A,In Training,,782
+CL0282,29/10/2024,Warehousing & Logistics,Jobcentre Plus,Adviser D,Action Plan Agreed,,664
+CL0283,30/03/2025,Admin & Office,Jobcentre Plus,Adviser C,Placed,18/08/2025,512
+CL0284,08/10/2024,Retail,Jobcentre Plus,Adviser D,In Training,,685
+CL0285,12/06/2024,Retail,Jobcentre Plus,Adviser D,Engaged,,803
+CL0286,09/03/2024,Construction,Partner organisation,Adviser C,In Training,,898
+CL0287,03/02/2024,Health & Social Care,Partner organisation,Adviser C,In Training,,933
+CL0288,19/03/2024,Health & Social Care,Self-referral,Adviser D,In Training,,888
+CL0289,12/10/2024,Construction,Re-referral,Adviser A,Placed,18/03/2025,681
+CL0290,14/06/2025,Customer Service,Re-referral,Adviser A,In Training,,436
+CL0291,23/09/2024,Education,Jobcentre Plus,Adviser C,Placed,25/02/2025,700
+CL0292,23/07/2024,Hospitality,Jobcentre Plus,Adviser A,Job Ready,,762
+CL0293,31/03/2025,Hospitality,Partner organisation,Adviser C,Placed,16/05/2025,511
+CL0294,24/10/2024,Warehousing & Logistics,Partner organisation,Adviser B,Sustained (13 weeks),02/04/2025,669
+CL0295,17/08/2024,Hospitality,Re-referral,Adviser B,Action Plan Agreed,,737
+CL0296,20/05/2025,Retail,Jobcentre Plus,Adviser C,Job Ready,,461
+CL0297,12/05/2024,Hospitality,Jobcentre Plus,Adviser D,Sustained (26 weeks),11/10/2024,834
+CL0298,22/06/2025,Customer Service,Partner organisation,Adviser A,Action Plan Agreed,,428
+CL0299,20/11/2024,Hospitality,Jobcentre Plus,Adviser C,Action Plan Agreed,,642
+CL0300,05/07/2024,Health & Social Care,Jobcentre Plus,Adviser A,Sustained (13 weeks),14/12/2024,780
+CL0301,05/06/2024,Warehousing & Logistics,Jobcentre Plus,Adviser C,Sustained (26 weeks),31/08/2024,810
+CL0302,20/12/2024,Warehousing & Logistics,Partner organisation,Adviser C,Action Plan Agreed,,612
+CL0303,08/10/2024,Health & Social Care,Self-referral,Adviser A,Placed,20/12/2024,685
+CL0304,06/06/2024,Health & Social Care,Partner organisation,Adviser C,Sustained (13 weeks),27/11/2024,809
+CL0305,12/02/2024,Retail,Jobcentre Plus,Adviser C,Placed,06/08/2024,924
+CL0306,02/03/2025,Retail,Self-referral,Adviser C,Placed,17/06/2025,540
+CL0307,09/05/2025,Construction,Partner organisation,Adviser D,In Training,,472
+CL0308,15/03/2024,Retail,Jobcentre Plus,Adviser D,Job Ready,,892
+CL0309,27/07/2024,Admin & Office,Self-referral,Adviser C,Sustained (13 weeks),15/11/2024,758
+CL0310,19/12/2024,Customer Service,Jobcentre Plus,Adviser C,Placed,14/02/2025,613
+CL0311,22/11/2024,Construction,Self-referral,Adviser C,Job Ready,,640
+CL0312,24/05/2024,Hospitality,Jobcentre Plus,Adviser D,Sustained (13 weeks),08/10/2024,822
+CL0313,11/09/2024,Health & Social Care,Partner organisation,Adviser C,Action Plan Agreed,,712
+CL0314,12/06/2024,Education,Re-referral,Adviser D,Job Ready,,803
+CL0315,11/11/2024,Education,Jobcentre Plus,Adviser D,Placed,10/02/2025,651
+CL0316,08/08/2024,Admin & Office,Jobcentre Plus,Adviser C,Job Ready,,746
+CL0317,26/04/2025,Warehousing & Logistics,Self-referral,Adviser A,Job Ready,,485
+CL0318,27/09/2024,Admin & Office,Partner organisation,Adviser C,Engaged,,696
+CL0319,22/02/2024,Construction,Jobcentre Plus,Adviser C,Engaged,,914
+CL0320,31/05/2025,Education,Partner organisation,Adviser C,Sustained (13 weeks),06/12/2025,450
+CL0321,01/05/2024,Health & Social Care,Re-referral,Adviser D,In Training,,845
+CL0322,13/12/2024,Admin & Office,Partner organisation,Adviser B,Placed,24/04/2025,619
+CL0323,27/05/2025,Retail,Jobcentre Plus,Adviser B,Placed,25/10/2025,454
+CL0324,15/06/2025,Education,Jobcentre Plus,Adviser B,In Training,,435
+CL0325,22/11/2024,Health & Social Care,Jobcentre Plus,Adviser C,Placed,30/04/2025,640
+CL0326,05/06/2025,Education,Partner organisation,Adviser C,Job Ready,,445
+CL0327,18/01/2024,Admin & Office,Jobcentre Plus,Adviser A,Sustained (26 weeks),15/07/2024,949
+CL0328,11/11/2024,Retail,Self-referral,Adviser C,Sustained (26 weeks),08/05/2025,651
+CL0329,21/08/2024,Retail,Self-referral,Adviser B,Placed,25/02/2025,733
+CL0330,24/01/2025,Health & Social Care,Partner organisation,Adviser B,Engaged,,577
+CL0331,22/04/2024,Construction,Jobcentre Plus,Adviser C,Job Ready,,854
+CL0332,26/02/2025,Construction,Jobcentre Plus,Adviser D,Sustained (13 weeks),12/04/2025,544
+CL0333,21/05/2024,Construction,Self-referral,Adviser D,Placed,08/09/2024,825
+CL0334,26/06/2024,Education,Re-referral,Adviser C,Placed,06/01/2025,789
+CL0335,27/09/2024,Education,Jobcentre Plus,Adviser B,In Training,,696
+CL0336,01/11/2024,Construction,Re-referral,Adviser C,Sustained (13 weeks),23/01/2025,661
+CL0337,15/05/2025,Admin & Office,Self-referral,Adviser C,In Training,,466
+CL0338,23/01/2025,Customer Service,Partner organisation,Adviser B,In Training,,578
+CL0339,21/10/2024,Hospitality,Jobcentre Plus,Adviser D,Placed,22/03/2025,672
+CL0340,07/08/2024,Construction,Partner organisation,Adviser C,Sustained (26 weeks),14/11/2024,747
+CL0341,20/05/2024,Hospitality,Self-referral,Adviser B,Action Plan Agreed,,826
+CL0342,19/08/2024,Construction,Jobcentre Plus,Adviser D,In Training,,735
+CL0343,28/04/2025,Hospitality,Partner organisation,Adviser B,Engaged,,483
+CL0344,10/06/2024,Customer Service,Partner organisation,Adviser D,Job Ready,,805
+CL0345,23/07/2024,Warehousing & Logistics,Jobcentre Plus,Adviser A,Sustained (26 weeks),13/09/2024,762
+CL0346,25/08/2024,Retail,Re-referral,Adviser B,Job Ready,,729
+CL0347,29/06/2024,Retail,Re-referral,Adviser D,Sustained (13 weeks),14/09/2024,786
+CL0348,23/10/2024,Retail,Jobcentre Plus,Adviser A,Sustained (26 weeks),15/02/2025,670
+CL0349,18/10/2024,Education,Re-referral,Adviser D,Sustained (13 weeks),21/12/2024,675
+CL0350,31/05/2025,Education,Jobcentre Plus,Adviser A,In Training,,450
+CL0351,14/04/2025,Warehousing & Logistics,Partner organisation,Adviser A,Placed,28/07/2025,497
+CL0352,16/07/2024,Health & Social Care,Self-referral,Adviser D,Sustained (13 weeks),24/12/2024,769
+CL0353,01/12/2024,Hospitality,Jobcentre Plus,Adviser A,Action Plan Agreed,,631
+CL0354,23/05/2024,Education,Jobcentre Plus,Adviser B,Engaged,,823
+CL0355,27/01/2025,Construction,Jobcentre Plus,Adviser C,Sustained (26 weeks),14/05/2025,574
+CL0356,12/01/2024,Warehousing & Logistics,Partner organisation,Adviser B,Engaged,,955
+CL0357,01/05/2024,Education,Jobcentre Plus,Adviser D,Placed,18/08/2024,845
+CL0358,30/04/2024,Warehousing & Logistics,Jobcentre Plus,Adviser B,Action Plan Agreed,,846
+CL0359,16/05/2024,Education,Jobcentre Plus,Adviser C,Job Ready,,830
+CL0360,27/04/2025,Construction,Partner organisation,Adviser A,Placed,09/10/2025,484
+CL0361,05/01/2025,Hospitality,Re-referral,Adviser A,Engaged,,596
+CL0362,01/06/2025,Construction,Self-referral,Adviser B,Action Plan Agreed,,449
+CL0363,16/06/2025,Education,Jobcentre Plus,Adviser B,Placed,18/11/2025,434
+CL0364,03/04/2024,Education,Partner organisation,Adviser D,Action Plan Agreed,,873
+CL0365,01/03/2025,Education,Self-referral,Adviser D,Placed,17/06/2025,541
+CL0366,23/01/2024,Customer Service,Jobcentre Plus,Adviser A,Placed,19/07/2024,944
+CL0367,15/03/2024,Retail,Jobcentre Plus,Adviser A,Placed,29/04/2024,892
+CL0368,11/03/2024,Education,Jobcentre Plus,Adviser D,Action Plan Agreed,,896
+CL0369,18/05/2024,Customer Service,Jobcentre Plus,Adviser D,Job Ready,,828
+CL0370,21/01/2025,Customer Service,Jobcentre Plus,Adviser B,Placed,20/05/2025,580
+CL0371,01/05/2024,Health & Social Care,Re-referral,Adviser D,Placed,27/07/2024,845
+CL0372,04/01/2024,Retail,Re-referral,Adviser D,Placed,21/06/2024,963
+CL0373,10/03/2025,Customer Service,Partner organisation,Adviser B,Job Ready,,532
+CL0374,07/06/2024,Warehousing & Logistics,Jobcentre Plus,Adviser A,Engaged,,808
+CL0375,05/03/2025,Retail,Jobcentre Plus,Adviser A,Action Plan Agreed,,537
+CL0376,04/02/2024,Education,Self-referral,Adviser A,Action Plan Agreed,,932
+CL0377,15/02/2024,Customer Service,Jobcentre Plus,Adviser B,Sustained (13 weeks),30/03/2024,921
+CL0378,23/05/2024,Warehousing & Logistics,Jobcentre Plus,Adviser C,Placed,12/09/2024,823
+CL0379,30/08/2024,Warehousing & Logistics,Partner organisation,Adviser B,Job Ready,,724
+CL0380,08/10/2024,Retail,Self-referral,Adviser B,Placed,24/02/2025,685
+CL0381,22/05/2025,Retail,Re-referral,Adviser D,Sustained (13 weeks),10/09/2025,459
+CL0382,02/03/2025,Customer Service,Jobcentre Plus,Adviser D,Action Plan Agreed,,540
+CL0383,29/04/2025,Construction,Partner organisation,Adviser C,Sustained (13 weeks),04/07/2025,482
+CL0384,19/04/2025,Retail,Self-referral,Adviser D,Placed,22/06/2025,492
+CL0385,01/02/2025,Construction,Jobcentre Plus,Adviser C,Placed,26/06/2025,569
+CL0386,14/01/2025,Hospitality,Self-referral,Adviser B,Engaged,,587
+CL0387,21/01/2025,Retail,Partner organisation,Adviser B,Sustained (13 weeks),20/07/2025,580
+CL0388,10/08/2024,Education,Jobcentre Plus,Adviser C,In Training,,744
+CL0389,16/01/2024,Construction,Re-referral,Adviser A,Placed,16/06/2024,951
+CL0390,05/09/2024,Construction,Jobcentre Plus,Adviser B,Placed,16/12/2024,718
+CL0391,24/01/2025,Education,Self-referral,Adviser C,In Training,,577
+CL0392,03/01/2025,Education,Self-referral,Adviser D,Sustained (13 weeks),24/04/2025,598
+CL0393,27/07/2024,Admin & Office,Jobcentre Plus,Adviser A,Placed,21/10/2024,758
+CL0394,29/05/2024,Retail,Jobcentre Plus,Adviser D,In Training,,817
+CL0395,19/07/2024,Admin & Office,Jobcentre Plus,Adviser B,Job Ready,,766
+CL0396,11/12/2024,Warehousing & Logistics,Partner organisation,Adviser D,Sustained (26 weeks),23/06/2025,621
+CL0397,17/05/2025,Education,Jobcentre Plus,Adviser C,Action Plan Agreed,,464
+CL0398,15/05/2025,Health & Social Care,Re-referral,Adviser A,Placed,03/07/2025,466
+CL0399,19/02/2024,Retail,Jobcentre Plus,Adviser B,Engaged,,917
+CL0400,03/06/2024,Retail,Jobcentre Plus,Adviser D,In Training,,812
+CL0401,09/05/2025,Education,Jobcentre Plus,Adviser D,Engaged,,472
+CL0402,08/10/2024,Warehousing & Logistics,Jobcentre Plus,Adviser D,Sustained (13 weeks),22/12/2024,685
+CL0403,19/04/2024,Hospitality,Self-referral,Adviser B,Action Plan Agreed,,857
+CL0404,23/06/2025,Warehousing & Logistics,Partner organisation,Adviser C,Sustained (13 weeks),12/08/2025,427
+CL0405,17/01/2025,Customer Service,Self-referral,Adviser B,Sustained (26 weeks),14/04/2025,584
+CL0406,03/11/2024,Hospitality,Partner organisation,Adviser A,Engaged,,659
+CL0407,23/01/2025,Customer Service,Self-referral,Adviser A,Placed,06/04/2025,578
+CL0408,25/03/2024,Education,Partner organisation,Adviser C,Placed,18/05/2024,882
+CL0409,24/06/2025,Retail,Jobcentre Plus,Adviser D,In Training,,426
+CL0410,17/03/2024,Warehousing & Logistics,Partner organisation,Adviser A,Action Plan Agreed,,890
+CL0411,18/11/2024,Retail,Re-referral,Adviser B,Sustained (13 weeks),29/03/2025,644
+CL0412,19/03/2024,Warehousing & Logistics,Jobcentre Plus,Adviser B,Placed,26/07/2024,888
+CL0413,05/12/2024,Customer Service,Partner organisation,Adviser B,Sustained (13 weeks),24/01/2025,627
+CL0414,27/05/2025,Admin & Office,Jobcentre Plus,Adviser D,Action Plan Agreed,,454
+CL0415,18/03/2024,Admin & Office,Self-referral,Adviser D,Sustained (26 weeks),09/07/2024,889
+CL0416,31/01/2024,Warehousing & Logistics,Partner organisation,Adviser D,Job Ready,,936
+CL0417,30/12/2024,Customer Service,Jobcentre Plus,Adviser D,Engaged,,602
+CL0418,29/10/2024,Construction,Partner organisation,Adviser A,In Training,,664
+CL0419,24/01/2025,Health & Social Care,Partner organisation,Adviser C,In Training,,577
+CL0420,03/04/2024,Retail,Re-referral,Adviser D,In Training,,873
